@@ -47,11 +47,13 @@ Study Aboard ```(07/2015 ~ 08/2015)``` (California State University, Monterey Ba
     <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ JavaScript-white?style=plastic&logo=JavaScript&logoColor=black"/>
-</span>
-<span>
     <img src="https://img.shields.io/badge/ LaTeX-black?style=plastic&logo=LaTeX&logoColor=white"/>
 </span>
+Verilog, VHDL   
+**Technical Skills:**<br>
+Linux, MCU Control, Markdown, Schematic Design, PCB Design<br><br>
+**Software Skills:**<br>
+Microsoft Word, Excel, Powerpoint, Photoshop, PremierePro, Vegas, 한글<br><br>
 
 ## Publications
 **Tae Yeong Yu et al., "Design and Structural Simplification of a CNN Acceleration Processor Based on RISC-V"** ```IPIU 2022```<br>
