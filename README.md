@@ -96,7 +96,7 @@ Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ Present)``` 
 
 <br><br>
 <!-- Hit counter -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunia3&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Framge132%2Fhit-counter&count_bg=%23E79A32&title_bg=%23555555&icon=github.svg&icon_color=%23E79A32&title=hits&edge_flat=false"/>
 <br><br><br><br>
 
 <!-- Footer banner -->
