@@ -4,7 +4,8 @@
 <br><br>
     
 <!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=nether script&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Taeyeong+Yu;Research+on+deep+learning" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=White+Angelica&color=58A6FF&size=24&pause=1000&center=true&vCenter=true&width=435&height=50&lines=Hello%2C+I'm+Taeyeong+Yu;Research+on+deep+learning" alt="Typing SVG" /></a>
 <br>
 <div align="center">  
 <br>
