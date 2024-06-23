@@ -5,7 +5,7 @@
     
 <!-- Title Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=White+Angelica&color=58A6FF&size=24&pause=1000&center=true&vCenter=true&width=435&height=50&lines=Hello%2C+I'm+Taeyeong+Yu;Research+on+deep+learning" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=White+Angelica&color=58A6FF&size=24&pause=1000&center=true&vCenter=true&width=435&height=50&lines=Hello%2C+I'm+Taeyeong+Yu;Research+on+Deep+Learning" alt="Typing SVG" /></a>
 <br>
 <div align="center">  
 <br>
@@ -29,34 +29,22 @@
 Reseach on deep learning
 
 ## WORK EXPERIENCE
-Math Academy, Seoul/South Korea ```(02/2016 ~ 07/2022)```  
-Teaching assistant for C language courses in Yonsei University, Seoul/South Korea ```(2020, 2021)```   
-Yonsei University/Digital Signal Processing Lab ```(05/2021 ~ 08/2021)```  
-Yonsei University, Seoul/Digital Image Media Lab ```(09/2021 ~ Present)```   
+DeepET, AI Researcher, Seoul/South Korea ```11/2021 ~ 02/2024 (2Y 4M)```    
+Teaching assistant for C language & Arduino AI courses in Konkuk University, Seoul/South Korea ```2022, 2023 (1Y)```   
+Konkuk University, Seoul/VLSI Lab ```09/2021 ~ 02/2024```   
+QURO, Engineer, Gyeonggi-do/South Korea ```05/2019 ~ 02/2022 (2Y 10M)```
 
 ## EDUCATION
-Bachelor Degree of Electrical and Electronic engineering ```(03/2016 ~ 08/2022)``` (Yonsei University, Seoul)   
-Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ Present)``` (Yonsei University, Seoul)   
+Master's Degree of Electrical and Elecronic Engineering ```(09/2021 ~ 02/2024)``` (Konkuk University, Seoul)   
+Bachelor's Degree of Electrical and Electronic Engineering ```(01/2020 ~ 08/2020)``` (National Institute for Lifelong Education, Seoul)   
+Study Aboard ```(07/2015 ~ 08/2015)``` (California State University, Monterey Bay)   
 
 ## ADDITIONAL SKILLS
 <span>
     <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ Matlab-red?style=plastic"/>
-</span>
-<span>
     <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
-</span>
-   
-<span>
-    <img src="https://img.shields.io/badge/ HTML-yellow?style=plastic&logo=HTML5&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ jQuery-white?style=plastic&logo=jQuery&logoColor=black"/>
 </span>
 <span>
     <img src="https://img.shields.io/badge/ JavaScript-white?style=plastic&logo=JavaScript&logoColor=black"/>
@@ -66,10 +54,9 @@ Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ Present)``` 
 </span>
 
 ## Publications
-**J. Park et al. "Regression Network Utilizing Cosine Similarity for Measuring Motion Blur in Facial Videos"**  
-```The 32nd Signal Processing Conference``` - Oral presentation/Best paper award  
-**J. Park et al. "Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation"**  
-```IEEE/CVF WACV 2024```  Poster presentation
+**Tae Yeong Yu et al., "Design and Structural Simplification of a CNN Acceleration Processor Based on RISC-V"** ```IPIU 2022```<br>
+**Seo Jin Jang et al., "DCT-based Convolution Neural Network Model Compression for Embedded Platform"** ```IPIU 2023```<br>
+**Tae Yeong Yu et al., "Research on Effective Dataset Generation Using Generative AI for Deep Learning Training"**<br>
 
 </div>
 </div>
