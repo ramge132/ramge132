@@ -61,7 +61,7 @@ Microsoft Word, Excel, Powerpoint, Photoshop, PremierePro, Vegas, 한글<br><br>
 <br><br>
 <div align="center">
 <!-- My snake -->
-<img src="https://github.com/junia3/junia3/blob/output/mysnake.svg" width="100%">
+<img src="https://github.com/ramge132/ramge132/blob/output/mysnake.svg" width="100%">
 
 <br><br>
 <!-- Hit counter -->
