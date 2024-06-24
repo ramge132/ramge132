@@ -22,7 +22,11 @@ jobs:
           github_user_name: ramge132
           outputs: |
             dist/github-snake.svg
+<<<<<<< HEAD
             dist/github-snake-dark.svg?color_snake=#58A6FF&color_dots=#161B22,#E1BEE7,#BA68C8,#8E24AA,#4A148C,#4A148C ?palette=github-dark
+=======
+            dist/github-snake-dark.svg?color_snake=#58A6FF&color_dots=#4A5B73,#E1BEE7,#BA68C8,#8E24AA,#4A148C,#4A148C?palette=github-dark
+>>>>>>> 028404adb27ee386d4fe8d8d97b71b32d8f415e8
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
