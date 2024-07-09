@@ -5,7 +5,7 @@
     
 <!-- Title Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=White+Angelica&color=58A6FF&size=24&pause=1000&center=true&vCenter=true&width=435&height=50&lines=Hello%2C+I'm+Taeyeong+Yu;Research+on+Deep+Learning" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=24&pause=1000&center=true&vCenter=true&width=435&height=50&lines=Hello%2C+I'm+Taeyeong+Yu;Research+on+Deep+Learning" alt="Typing SVG" /></a>
 <br>
 <div align="center">  
 <br>
