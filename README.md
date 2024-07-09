@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api? type=waving&color=0:E34 C26,10:DA5 B0 B,30:C6538C,75:3572 A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 <br><br>
     
 <!-- Title Typing Effect -->
@@ -11,16 +11,16 @@
 <br>
 <!-- My CV/resume -->
 <details>
-<summary>About Me</summary>
+<summary> About Me </summary>
 <br><br>
 <span>
   <a href="https://ramge132.github.io">
-    <img src="https://img.shields.io/badge/GitHub Blog-red?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub Blog-red? style=plastic&logo=GitHub Sponsors&logoColor=white"/>
   </a>
 </span>
 <span>
   <a href="mailto:taeyoun9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-black? style=plastic&logo=Gmail&logoColor=white"/>
   </a>
 </span>
 <br><br>
@@ -36,7 +36,6 @@ QURO, Engineer, Gyeonggi-do/South Korea ```05/2019 ~ 02/2022 (2Y 10M)```
 
 ## EDUCATION
 Master's Degree of Electrical and Elecronic Engineering ```(09/2021 ~ 02/2024)``` (Konkuk University, Seoul)   
-Bachelor's Degree of Electrical and Electronic Engineering ```(01/2020 ~ 08/2020)``` (National Institute for Lifelong Education, Seoul)   
 Study Aboard ```(07/2015 ~ 08/2015)``` (California State University, Monterey Bay)   
 
 ## ADDITIONAL SKILLS
