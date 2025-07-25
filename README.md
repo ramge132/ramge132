@@ -63,9 +63,6 @@ Microsoft Word, Excel, Powerpoint, Photoshop, PremierePro, Vegas, 한글<br><br>
 <img src="https://github.com/ramge132/ramge132/blob/output/github-snake-dark.svg" width="100%">
 
 <br><br>
-<!-- Hit counter -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Framge132%2Fhit-counter&count_bg=%23E79A32&title_bg=%23555555&icon=github&icon_color=%23E79A32&title=hits&edge_flat=false"/>
-<br><br><br><br>
 
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=footer&text=&fontSize=0" width="100%"/>
