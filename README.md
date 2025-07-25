@@ -15,12 +15,12 @@
 <br><br>
 <span>
   <a href="https://ramge132.github.io">
-    <img src="https://img.shields.io/badge/GitHub Blog-red? style=plastic&logo=GitHub Sponsors&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub_Blog-red?style=plastic&logo=githubsponsors&logoColor=white"/>
   </a>
 </span>
 <span>
   <a href="mailto:taeyoun9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-black? style=plastic&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=gmail&logoColor=white"/>
   </a>
 </span>
 <br><br>
@@ -64,9 +64,10 @@ Microsoft Word, Excel, Powerpoint, Photoshop, PremierePro, Vegas, 한글<br><br>
 
 <br><br>
 <!-- Hit counter -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Framge132%2Fhit-counter&count_bg=%23E79A32&title_bg=%23555555&icon=github.svg&icon_color=%23E79A32&title=hits&edge_flat=false"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Framge132%2Fhit-counter&count_bg=%23E79A32&title_bg=%23555555&icon=github&icon_color=%23E79A32&title=hits&edge_flat=false"/>
 <br><br><br><br>
 
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=footer&text=&fontSize=0" width="100%"/>
 </div>
+
